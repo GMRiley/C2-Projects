@@ -1,0 +1,18 @@
+﻿Build started 7/11/2018 10:55:25 PM.
+     1>Project "F:\C++2\Lab7\Lab7\Lab7.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Lab7.unsuccessfulbuild".
+       ClCompile:
+         D:\Microsoft Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Lab7.cpp
+         Lab7.cpp
+     1>f:\c++2\lab7\lab7\lab7.cpp(66): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>f:\c++2\lab7\lab7\lab7.cpp(70): warning C4552: '>>' : operator has no effect; expected operator with side-effect
+     1>f:\c++2\lab7\lab7\lab7.cpp(75): error C2440: '=' : cannot convert from 'int *' to 'int'
+                 There is no context in which this conversion is possible
+     1>f:\c++2\lab7\lab7\lab7.cpp(81): error C2109: subscript requires array or pointer type
+     1>f:\c++2\lab7\lab7\lab7.cpp(91): error C2109: subscript requires array or pointer type
+     1>Done Building Project "F:\C++2\Lab7\Lab7\Lab7.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.60

@@ -1,0 +1,17 @@
+﻿Build started 1/23/2018 2:42:41 PM.
+     1>Project "F:\C++2\Lab2B\Lab2B\Lab2B.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lab2B.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Lab2B.vcxproj -> F:\C++2\Lab2B\Debug\Lab2B.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Lab2B.unsuccessfulbuild".
+         Touching "Debug\Lab2B.lastbuildstate".
+     1>Done Building Project "F:\C++2\Lab2B\Lab2B\Lab2B.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12
